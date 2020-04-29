@@ -1,0 +1,11 @@
+B:\portfolio\bin\Debug\portfolio_base.mdf
+B:\portfolio\bin\Debug\portfolio_base_log.ldf
+B:\portfolio\bin\Debug\portfolio.exe.config
+B:\portfolio\bin\Debug\portfolio.exe
+B:\portfolio\bin\Debug\portfolio.pdb
+B:\portfolio\obj\Debug\portfolio.csprojAssemblyReference.cache
+B:\portfolio\obj\Debug\portfolio.Properties.Resources.resources
+B:\portfolio\obj\Debug\portfolio.csproj.GenerateResource.cache
+B:\portfolio\obj\Debug\portfolio.csproj.CoreCompileInputs.cache
+B:\portfolio\obj\Debug\portfolio.exe
+B:\portfolio\obj\Debug\portfolio.pdb
